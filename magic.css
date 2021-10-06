@@ -20,7 +20,7 @@ body{
 }
 .navbar{
     padding-top: 0 !important;
-    padding-bottom: 0 !important;
+    padding-bottom: 1px !important;
     min-height: 40px !important;
     box-shadow: 0px 4px 5px rgb(121, 119, 119);
 }
